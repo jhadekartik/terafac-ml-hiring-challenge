@@ -31,5 +31,4 @@ https://colab.research.google.com/drive/1E3hu00pPXSK9tGAqySG6xWSF3hOroCZf?usp=sh
 ## Reproducibility
 The Colab notebook is fully executable and reproduces all results reported in the submission PDF.
 
-## Notes
-This GitHub repository serves as an index to the Google Colab notebook, as permitted by the challenge instructions.
+
